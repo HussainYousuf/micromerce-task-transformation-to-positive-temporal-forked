@@ -41,6 +41,7 @@ Anmerkungen:
 - die String-Inputs sollten nicht case-sensitive sein
 - besonders gut wäre es, wenn Typescript-Definitionen, wann immer sinnvoll möglich, verwendet werden würden
 
+# Commands:
 ```
 npm run test
 ```
