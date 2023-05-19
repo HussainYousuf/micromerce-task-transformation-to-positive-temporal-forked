@@ -40,3 +40,7 @@ Anmerkungen:
 - es ist nicht nötig, dass beispielsweise automatisch aus 12 Monaten ein Jahr gemacht wird oder aus 31 Tagen ein Monat
 - die String-Inputs sollten nicht case-sensitive sein
 - besonders gut wäre es, wenn Typescript-Definitionen, wann immer sinnvoll möglich, verwendet werden würden
+
+```
+npm run test
+```
